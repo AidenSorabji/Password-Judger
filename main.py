@@ -1,9 +1,3 @@
-
-# ------------------------
-# | *\Made by SpaceN64*/ |
-# ------------------------
-
-
 # Imports
 from random import choice
 import random
